@@ -18,7 +18,8 @@ export default function useContent(target) {
         setContent(allContent);
       })
       .catch((error) => console.log(error.message));
-  }, []);
+  }, [firebase, target]);
 
+  console.log(content);
   return { [target]: content };
 }
