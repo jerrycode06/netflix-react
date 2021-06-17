@@ -2,6 +2,11 @@
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed with Firebase
+You can check the deployed URL - https://netflix-clone-81557.web.app and if you want to sign in then put these credentials - 
+- Email = `jerry@gmail.com`
+- Password = `123456789` 
+
 # Screenshots
 
 ![Screenshot1](./public/images/shot1.png)
