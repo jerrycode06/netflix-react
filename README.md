@@ -8,6 +8,7 @@ You can check the deployed URL - https://netflix-clone-81557.web.app and if you 
 - Password = `123456789` 
 
 # Screenshots
+# Small Change
 
 ![Screenshot1](./public/images/shot1.png)
 ![Screenshot1](./public/images/shot4.png)
